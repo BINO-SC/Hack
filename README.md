@@ -1,5 +1,3 @@
-#Hack
-
 ### Menu ###
 (+) Hack Akun Publik
 
